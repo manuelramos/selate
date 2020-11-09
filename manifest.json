@@ -1,0 +1,6 @@
+{
+    "name": "selate",
+    "version": "0.1",
+    "description": "A simple extension for the google chrome browser to translate selected text",
+    "manifest_version": 2
+  }
